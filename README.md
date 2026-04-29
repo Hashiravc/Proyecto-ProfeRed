@@ -1,10 +1,10 @@
-# Sistema Web PETI – ProfeRed
+# Sistema Web PETI - ProfeRed
 
 ## 📌 Descripción general
 
-El sistema web PETI – ProfeRed tiene como propósito digitalizar el archivo Excel PETI (Planeamiento Estratégico de Tecnologías de Información) y convertirlo en una aplicación web interactiva.
+El sistema web PETI - ProfeRed tiene como propósito digitalizar el archivo Excel PETI (Planeamiento Estratégico de Tecnologías de Información) y convertirlo en una aplicación web interactiva.
 
-El caso de aplicación es **ProfeRed**, una plataforma orientada a conectar estudiantes de secundaria con tutores particulares.
+El caso de aplicación es ProfeRed, una plataforma orientada a conectar estudiantes de secundaria con tutores particulares.
 
 ## 🎯 Objetivo del proyecto
 
@@ -18,22 +18,22 @@ En este primer avance se trabajó en la base conceptual y estructural del sistem
 - Definición del proyecto ProfeRed como caso de aplicación.
 - Creación del repositorio en GitHub.
 - Definición de la arquitectura base del sistema.
-- Implementación inicial de la pantalla **Misión, Visión y Valores**.
+- Implementación inicial de la pantalla Misión, Visión y Valores.
 
 ## Funcionalidades implementadas en este avance
 
-- Visualización inicial de la sección **Misión, Visión y Valores**.
+- Visualización inicial de la sección Misión, Visión y Valores.
 - Organización preliminar de la estructura del sistema web.
 - Base conceptual para futuros módulos del PETI.
 
 ## Tecnologías utilizadas
 
-> Completar según la implementación del proyecto.
+Completar según la implementación del proyecto.
 
-- Frontend: 
-- Backend: 
-- Base de datos: 
-- Herramientas de desarrollo: 
+- Frontend:
+- Backend:
+- Base de datos:
+- Herramientas de desarrollo:
 
 ## Estructura del proyecto
 
@@ -41,12 +41,12 @@ La estructura actual corresponde a una etapa inicial del proyecto. Se presenta u
 
 ```text
 Proyecto-ProfeRed/
-├── README.md
+└── README.md
 ```
 
 ## Estado del proyecto
 
-**Avance general: 10%**
+Avance general: 10%
 
 ## Integrantes del equipo
 
@@ -57,7 +57,7 @@ Proyecto-ProfeRed/
 
 ## Resumen del avance
 
-En esta primera semana se analizó el archivo Excel PETI proporcionado por el docente con el objetivo de identificar los módulos que serán implementados en el sistema web. Se definió el proyecto **ProfeRed** como caso de aplicación y se estableció la estructura base del sistema.
+En esta primera semana se analizó el archivo Excel PETI proporcionado por el docente con el objetivo de identificar los módulos que serán implementados en el sistema web. Se definió el proyecto ProfeRed como caso de aplicación y se estableció la estructura base del sistema.
 
 Además, se creó el repositorio en GitHub y se definió la arquitectura inicial del sistema para futuros módulos como FODA, Porter y BCG.
 
@@ -75,7 +75,7 @@ Además, se creó el repositorio en GitHub y se definió la arquitectura inicial
 
 | Integrante | Rol sugerido |
 |---|---|
-| Hashira Belen Vargas Candia | Desarrolladora / Programadora |
+| Hashira Belen Vargas Candia | Dev / Desarrolladora |
 | Diego Fabrizio Andia Navarro | Responsable de documentación |
 
 ## Enlace al repositorio
